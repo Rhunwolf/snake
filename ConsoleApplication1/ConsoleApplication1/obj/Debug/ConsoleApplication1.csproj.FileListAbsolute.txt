@@ -1,0 +1,6 @@
+R:\ya\Rhunwolf\GitHub\snake.git\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+R:\ya\Rhunwolf\GitHub\snake.git\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+R:\ya\Rhunwolf\GitHub\snake.git\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+R:\ya\Rhunwolf\GitHub\snake.git\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+R:\ya\Rhunwolf\GitHub\snake.git\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+R:\ya\Rhunwolf\GitHub\snake.git\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
